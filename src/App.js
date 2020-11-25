@@ -5,7 +5,7 @@ import Header from './components/Header';
 import About from './components/About';
 import Work from './components/work';
 import Footer from './components/Footer';
-import Navbar from './components/Navbar'
+import Navbar from './components/Navbar';
 
 function App() {
   return (
