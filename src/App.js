@@ -4,7 +4,7 @@ import './App.css';
 import Header from './components/Header';
 import About from './components/About';
 import Work from './components/work';
-import Contact from './components/Contact';
+import Footer from './components/Footer';
 import Navbar from './components/Navbar'
 
 function App() {
@@ -22,7 +22,7 @@ function App() {
         <Work></Work>
       </div>
       <div className='contact'>
-        <Contact></Contact>
+        <Footer></Footer>
       </div>
     </div>
   );
